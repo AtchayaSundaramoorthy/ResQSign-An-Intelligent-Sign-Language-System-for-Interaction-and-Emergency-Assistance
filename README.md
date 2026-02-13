@@ -1,0 +1,1 @@
+# ResQSign-An-Intelligent-Sign-Language-System-for-Interaction-and-Emergency-Assistance
